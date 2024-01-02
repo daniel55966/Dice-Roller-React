@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dice-Roller-React/static/css/main.e6c13ad2.css",
+    "main.js": "/Dice-Roller-React/static/js/main.a0ba7959.js",
+    "static/js/787.1821230a.chunk.js": "/Dice-Roller-React/static/js/787.1821230a.chunk.js",
+    "index.html": "/Dice-Roller-React/index.html",
+    "main.e6c13ad2.css.map": "/Dice-Roller-React/static/css/main.e6c13ad2.css.map",
+    "main.a0ba7959.js.map": "/Dice-Roller-React/static/js/main.a0ba7959.js.map",
+    "787.1821230a.chunk.js.map": "/Dice-Roller-React/static/js/787.1821230a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a0ba7959.js"
+  ]
+}
